@@ -1,6 +1,6 @@
-Hey, I'm Sam. I enjoy tinkering with game, web, and software development, as well as modding and occasionally making music.
+Hey, I'm Sam. I enjoy tinkering with game, web, and software development
 
-**[My Discord](https://discord.com/users/976176454511509554)**
+[My Site](https://cheesesamwich.github.io/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheesesamwich&show_icons=true&theme=tokyonight)
 \
